@@ -1,7 +1,5 @@
 <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
 
-</body>
-</html>
 
   <!-- PROJECT LOGO -->
 
