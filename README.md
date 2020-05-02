@@ -36,7 +36,7 @@
 
 
 
-## About The Project 🔍
+## About The Project 🔎
 
 
 In order to send appreciation messages to all who have made a contribution to GUI's online community sponsorship "#KeepKampungAlive", I did some data cleaning to identify contributors by their first and last names, as well as email addresses.  
