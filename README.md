@@ -1,7 +1,8 @@
   <!-- PROJECT LOGO -->
- <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
+  <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
     <img href="" src="GUIlogo_med.png" /><br><br>
   </a>
+  
   
   <!-- TITLE -->
 
