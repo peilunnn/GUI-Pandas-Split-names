@@ -1,4 +1,19 @@
-<img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" alt="John Doe">
+    </div>
+  </body>
+</html>
 
 
   <!-- PROJECT LOGO -->
