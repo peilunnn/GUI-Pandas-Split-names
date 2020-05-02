@@ -26,7 +26,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents 📖
+## Table of Contents 📑
 
 * [About the Project 👀 ](#about-the-project)
 * [Process 💻](#process)
@@ -44,7 +44,7 @@ In order to send appreciation messages to all who have made a contribution to GU
 
 
 
-## Process 🖥
+## Process 💻
 
 The challenge was splitting the column containing contributors' full names into two columns containing their first and last names after dropping duplicates and unwanted columns. Seeing as the names were of varying lengths, I did a filter by splitting the strings, then testing the number of splits and using that as a boolean mask to assign the rows with the respective components of the split.
 
