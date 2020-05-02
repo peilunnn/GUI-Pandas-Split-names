@@ -1,12 +1,7 @@
   <!-- PROJECT LOGO -->
-<p class="aligncenter">
-    <img src="GUIlogo_med.png" alt="centered image" />
-</p>
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
+ <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
+    <img href="" src="GUIlogo_med.png" /><br><br>
+  </a>
   
   <!-- TITLE -->
 
