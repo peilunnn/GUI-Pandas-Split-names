@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML img Tag</title>
    </head>
 
    <body>
-      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" width="200"
-         height="100">
+      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" width="500"
+         height="600">
    </body>
 </html>
   <!-- PROJECT LOGO -->
