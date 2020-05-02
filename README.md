@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
-   <head>
-   </head>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 
-   <body>
-      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" width="500"
-         height="600">
-   </body>
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
+<img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
+
+</body>
 </html>
+
   <!-- PROJECT LOGO -->
 
   <!-- TITLE -->
