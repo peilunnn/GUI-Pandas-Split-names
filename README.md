@@ -1,15 +1,5 @@
-<br />
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML img Tag</title>
-   </head>
 
-   <body>
-      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png
-">
-   </body>
-</html>
+      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
 <p align="center">
 
   <!-- PROJECT LOGO -->
