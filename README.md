@@ -8,7 +8,7 @@
 
   <!-- TITLE -->
 
-  <h1 align="center"> GUI Pandas Split names 📛</a></h1>
+  <h1 align="center"> GUI Pandas Split names 📂</a></h1>
   <p align="center">
     A mini project to split full names into first and last names. Built using pandas 
     <br />
@@ -28,7 +28,7 @@
 
 ## Table of Contents 📑
 
-* [About the Project 👀 ](#about-the-project)
+* [About the Project 👁‍🗨 ](#about-the-project)
 * [Process 💻](#process)
 * [Contact ☎](#contact)
 
