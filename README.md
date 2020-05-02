@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
 
 </body>
