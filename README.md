@@ -13,7 +13,6 @@
     A mini project to split full names into first and last names. Built using pandas 
     <br />
     <br />
-    <br />
     <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/blob/master/GUIUnifiedPayments(splitting%20first%20and%20last%20names).ipynb">Source Code</a>
     ·
     <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/issues">Report Bug</a>
