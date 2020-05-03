@@ -1,14 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <br />
 <p align="center">
   
   <!-- PROJECT LOGO -->
-  <a href="https://telestat-817a8.firebaseapp.com/">
-    <img href="" src="readme_mockups/logo.png" /><br><br>
+    <img href="" src="GUIlogo_med.png" /><br><br>
   </a>
   
 
