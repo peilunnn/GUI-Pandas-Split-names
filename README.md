@@ -1,11 +1,13 @@
-<br />
+<!DOCTYPE html>
+<html>
+
+   <body>
 <p align="center">
-  
-  <!-- PROJECT LOGO -->
-  <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
-    <img href="" src="GUIlogo_med.png" /><br><br>
-  </a>
-  
+      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" width="300"
+         height="400">
+   </body>
+</html>
+
   <!-- TITLE -->
 
   <h1 align="center"> GUI Pandas Split names 📂</a></h1>
