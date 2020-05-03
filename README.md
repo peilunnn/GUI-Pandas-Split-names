@@ -2,10 +2,10 @@
 <p align="center">
   
   <!-- PROJECT LOGO -->
+  <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
     <img href="" src="GUIlogo_med.png" /><br><br>
   </a>
   
-
   <!-- TITLE -->
 
   <h1 align="center"> GUI Pandas Split names 📂</a></h1>
