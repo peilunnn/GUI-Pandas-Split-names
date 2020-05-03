@@ -1,9 +1,17 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<br />
+<p align="center">
+  
   <!-- PROJECT LOGO -->
-  <a href="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png">
-    <img href="" src="GUIlogo_med.png" /><br><br>
+  <a href="https://telestat-817a8.firebaseapp.com/">
+    <img href="" src="readme_mockups/logo.png" /><br><br>
   </a>
   
-  
+
   <!-- TITLE -->
 
   <h1 align="center"> GUI Pandas Split names 📂</a></h1>
