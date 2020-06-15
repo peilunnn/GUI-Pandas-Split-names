@@ -29,9 +29,8 @@
 
 ## Table of Contents :notebook_with_decorative_cover:
 
-* [About the Project 🔍](#about-the-project)
-* [Process 💡](#process)
-* [Contact ☎](#contact)
+* [About the Project :eyes:](#about-the-project)
+* [Social Media :fire:](#contact)
 
 
 
