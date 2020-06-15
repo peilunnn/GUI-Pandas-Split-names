@@ -10,7 +10,7 @@
 
   <!-- TITLE -->
 
-  <h1 align="center"> GUI Pandas Split names 📂</a></h1>
+  <h1 align="center"> :zap: GUI Pandas Split names :zap:</a></h1>
   <p align="center">
     A mini project to split full names into first and last names. Built using pandas 
     <br />
@@ -53,7 +53,7 @@ The challenge was splitting the column containing contributors' full names into 
 
 
 
-## Contact ☎
+## Social Media :fire:
 
 🥂**Pei Lun** 
 
