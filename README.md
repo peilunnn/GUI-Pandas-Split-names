@@ -31,8 +31,7 @@
 
 * [About the Project :eyes:](#about-the-project)
 * [Social Media :fire:](#contact)
-
-
+<br /><br /><br />
 
 
 
@@ -40,7 +39,7 @@
 ![banner](https://groundupinitiative.org/wp-content/uploads/2018/12/KKA-title.png)
 
 In order to send appreciation messages to all who have made a contribution to GUI's online community sponsorship "#KeepKampungAlive", some data cleaning was done to identify contributors by their first and last names, as well as email addresses.  
-
+<br /><br /><br />
 
 
 
