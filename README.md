@@ -12,7 +12,7 @@
 
   <h1 align="center"> :zap: GUI Pandas Split names :zap:</a></h1>
   <p align="center">
-    A mini project to split full names into first and last names. Built using pandas 
+    A mini project to split full names into first and last names. Built using pandas.
     <br />
     <br />
     <a href="https://github.com/peilunnn/GUIUnifiedPayments-splitting-first-and-last-names-.ipynb/blob/master/GUIUnifiedPayments(splitting%20first%20and%20last%20names).ipynb">Source Code</a>
