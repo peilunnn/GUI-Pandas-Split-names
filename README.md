@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
-
-   <body>
-<p align="center">
-      <img src="https://groundupinitiative.org/wp-content/uploads/2017/06/GUIlogo_med.png" width="300"
-         height="400">
-   </body>
-</html>
-
   <!-- TITLE -->
 
-  <h1 align="center"> :zap: GUI Pandas Split names :zap:</a></h1>
+  <h1 align="center"> :zap: GUI Split Names :zap:</a></h1>
   <p align="center">
     A mini project to split full names into first and last names. Built using pandas.
     <br />
